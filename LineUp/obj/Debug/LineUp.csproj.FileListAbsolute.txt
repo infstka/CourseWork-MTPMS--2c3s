@@ -1,0 +1,235 @@
+C:\Users\user\Desktop\LineUp\bin\Debug\LineUp.exe.config
+C:\Users\user\Desktop\LineUp\bin\Debug\LineUp.exe
+C:\Users\user\Desktop\LineUp\bin\Debug\LineUp.pdb
+C:\Users\user\Desktop\LineUp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\ZstdNet.dll
+C:\Users\user\Desktop\LineUp\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\LineUp\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\LineUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LineUp\obj\Debug\Auth\login.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Auth\logup.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Auth\RegLog.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\App.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp_MarkupCompile.cache
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp_MarkupCompile.lref
+C:\Users\user\Desktop\LineUp\obj\Debug\Auth\login.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Auth\logup.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Auth\RegLog.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.g.resources
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.Properties.Resources.resources
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.csproj.CopyComplete
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.exe
+C:\Users\user\Desktop\LineUp\obj\Debug\LineUp.pdb
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\Groups.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\Groups.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\NewBand.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\NewBand.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\CurrentBand.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\CurrentBand.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\AddMember.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\AddMember.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\AddSong.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\AddSong.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\DelMember.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\DelMember.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\DelSong.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\DelSong.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Main.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Main.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\Concerts.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\Concerts.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\ConcertsList.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\ConcertsList.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\CreateConcert.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\CreateConcert.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\CurrentConcert.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Concerts\CurrentConcert.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\EditGroup.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\Groups\EditGroup.baml
+D:\уник\Курсовой проект\LineUp\bin\Debug\LineUp.exe.config
+D:\уник\Курсовой проект\LineUp\bin\Debug\LineUp.exe
+D:\уник\Курсовой проект\LineUp\bin\Debug\LineUp.pdb
+D:\уник\Курсовой проект\LineUp\bin\Debug\BouncyCastle.Crypto.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\Google.Protobuf.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\K4os.Compression.LZ4.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\K4os.Hash.xxHash.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\MySql.Data.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Buffers.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Memory.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Numerics.Vectors.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\Ubiety.Dns.Core.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\ZstdNet.dll
+D:\уник\Курсовой проект\LineUp\bin\Debug\Google.Protobuf.pdb
+D:\уник\Курсовой проект\LineUp\bin\Debug\Google.Protobuf.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\K4os.Compression.LZ4.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\K4os.Hash.xxHash.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\MySql.Data.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Buffers.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Memory.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Numerics.Vectors.xml
+D:\уник\Курсовой проект\LineUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Auth\login.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Auth\logup.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Auth\RegLog.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\Concerts.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\ConcertsList.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\CreateConcert.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\CurrentConcert.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\AddMember.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\AddSong.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\CurrentBand.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\DelMember.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\DelSong.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\EditGroup.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\Groups.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\NewBand.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Main.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\MainWindow.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\App.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp_MarkupCompile.cache
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp_MarkupCompile.lref
+D:\уник\Курсовой проект\LineUp\obj\Debug\Auth\login.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Auth\logup.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Auth\RegLog.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\Concerts.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\ConcertsList.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\CreateConcert.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Concerts\CurrentConcert.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\AddMember.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\AddSong.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\CurrentBand.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\DelMember.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\DelSong.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\EditGroup.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\Groups.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Groups\NewBand.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Main.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\MainWindow.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.g.resources
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.Properties.Resources.resources
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.csproj.GenerateResource.cache
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.csproj.CoreCompileInputs.cache
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.csproj.CopyComplete
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.exe
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.pdb
+D:\уник\Курсовой проект\LineUp\obj\Debug\LineUp.csproj.AssemblyReference.cache
+D:\уник\Курсовой проект\LineUp\obj\Debug\Dictionaries\By.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Dictionaries\Eng.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Dictionaries\Ru.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Themes\Dark.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Themes\Light.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\App.baml
+D:\уник\Курсовой проект\LineUp\obj\Debug\Settings.g.cs
+D:\уник\Курсовой проект\LineUp\obj\Debug\Settings.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\LineUp.exe.config
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\LineUp.exe
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\LineUp.pdb
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\BouncyCastle.Crypto.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\Google.Protobuf.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\K4os.Compression.LZ4.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\K4os.Hash.xxHash.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\MySql.Data.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Buffers.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Memory.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Numerics.Vectors.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\Ubiety.Dns.Core.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\ZstdNet.dll
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\Google.Protobuf.pdb
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\Google.Protobuf.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\K4os.Compression.LZ4.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\K4os.Hash.xxHash.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\MySql.Data.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Buffers.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Memory.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Numerics.Vectors.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.csproj.AssemblyReference.cache
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.csproj.SuggestedBindingRedirects.cache
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Auth\login.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Auth\logup.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Auth\RegLog.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\Concerts.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\ConcertsList.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\CreateConcert.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\CurrentConcert.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Settings.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\AddMember.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\AddSong.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\CurrentBand.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\DelMember.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\DelSong.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\EditGroup.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\Groups.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\NewBand.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Main.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\MainWindow.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\App.g.cs
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp_MarkupCompile.cache
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp_MarkupCompile.lref
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\App.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Auth\login.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Auth\logup.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Auth\RegLog.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\Concerts.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\ConcertsList.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\CreateConcert.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Concerts\CurrentConcert.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Dictionaries\By.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Dictionaries\Eng.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Dictionaries\Ru.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Settings.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Themes\Dark.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\AddMember.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\AddSong.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\CurrentBand.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\DelMember.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\DelSong.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\EditGroup.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\Groups.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Groups\NewBand.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Themes\Light.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\Main.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\MainWindow.baml
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.g.resources
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.Properties.Resources.resources
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.csproj.GenerateResource.cache
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.csproj.CoreCompileInputs.cache
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.csproj.CopyComplete
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.exe
+D:\университет\2 курс\2 семестр\Курсовой проект (ООП)\LineUp\obj\Debug\LineUp.pdb
+C:\Users\user\Desktop\LineUp\obj\Debug\Settings.g.cs
+C:\Users\user\Desktop\LineUp\obj\Debug\App.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Dictionaries\By.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Dictionaries\Eng.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Dictionaries\Ru.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Settings.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Themes\Dark.baml
+C:\Users\user\Desktop\LineUp\obj\Debug\Themes\Light.baml

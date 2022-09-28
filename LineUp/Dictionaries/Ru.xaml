@@ -1,0 +1,99 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LineUp" xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--Авторизация-->
+    <v:String x:Key="Auth">Авторизация</v:String>
+    <v:String x:Key="CreateAcc">Создать аккаунт</v:String>
+    <v:String x:Key="Login">Войти</v:String>
+    <v:String x:Key="Password">Пароль</v:String>
+    <v:String x:Key="Log">Логин</v:String>
+    
+    <!--Настройки-->
+        <v:String x:Key="Settings">Настройки</v:String>
+        <v:String x:Key="Language">Язык: </v:String>
+        <v:String x:Key="Ru">Русский</v:String>
+        <v:String x:Key="By">Беларуский</v:String>
+        <v:String x:Key="Eng">Английский</v:String>
+        <v:String x:Key="Theme">Цветовая тема: </v:String>
+        <v:String x:Key="Light">Светлая</v:String>
+        <v:String x:Key="Dark">Темная</v:String>
+        <v:String x:Key="Press">Нажми кнопку: </v:String>
+        <v:String x:Key="Singleton">Одиночка</v:String>
+
+    <!--Картинка-->
+    <v:String x:Key="Image">Изображение</v:String>
+
+    <!--Пользователь-->
+    <v:String x:Key="Enter">Поиск</v:String>
+    <v:String x:Key="FirstStart">До начала концерта</v:String>
+    <v:String x:Key="Main">Главная</v:String>
+    
+    <!--Настройки/Выход-->
+    <v:String x:Key="Sttngs">Настройки</v:String>
+    <v:String x:Key="Exit">Выход</v:String>
+    <v:String x:Key="Close">Закрыть</v:String>
+    <v:String x:Key="Open">Открыть</v:String>
+
+    <!--BandDG-->
+    <v:String x:Key="Bands">Группы</v:String>
+    <v:String x:Key="BName">Название группы</v:String>
+    <v:String x:Key="BBName">Название</v:String>
+    <v:String x:Key="Genre">Жанр</v:String>
+    <v:String x:Key="Rate">Рейтинг</v:String>
+    <v:String x:Key="EditBand">Редактировать группу</v:String>
+    <v:String x:Key="DeleteBand">Удалить группу</v:String>
+    <v:String x:Key="CreateBand">Создать группу</v:String>
+
+    <!--Genres-->
+    <v:String x:Key="Rock">Рок</v:String>
+    <v:String x:Key="IndieRock">Инди-рок</v:String>
+    <v:String x:Key="PunkRock">Панк-рок</v:String>
+    <v:String x:Key="Pop">Поп</v:String>
+    <v:String x:Key="IndiePop">Инди-поп</v:String>
+    <v:String x:Key="SynthPop">Синти-поп</v:String>
+    <v:String x:Key="Jazz">Джаз</v:String>
+    <v:String x:Key="Metal">Метал</v:String>
+    <v:String x:Key="Blues">Блюз</v:String>
+    <v:String x:Key="Classic">Классическая</v:String>
+
+    <!--TrackDG-->
+    <v:String x:Key="Tracks">Песни</v:String>
+    <v:String x:Key="TName">Название песни</v:String>
+    <v:String x:Key="AddTrack">Добавить песню</v:String>
+    <v:String x:Key="DeleteTrack">Удалить песню</v:String>
+    
+    <!--MemberDG-->
+    <v:String x:Key="Members">Участники</v:String>
+    <v:String x:Key="Name">Имя</v:String>
+    <v:String x:Key="AddMem">Добавить участника</v:String>
+    <v:String x:Key="DeleteMem">Удалить участника</v:String>
+    
+    <!--Concert-->
+    <v:String x:Key="CName">Название концерта</v:String>
+    <v:String x:Key="Concs">Концерты</v:String>
+    
+    <!--NewBand-->
+    <v:String x:Key="NewBand">Новая группа</v:String>
+    
+    <!--NewTrack-->
+    <v:String x:Key="NewTrack">Новая песня</v:String>
+    
+    <!--NewMember-->
+    <v:String x:Key="NewMember">Новый участник</v:String>
+    
+    <!--NewConc-->
+    <v:String x:Key="NewConc">Создать концерт</v:String>
+    <v:String x:Key="DelConc">Удалить концерт</v:String>
+    <v:String x:Key="Days">Дни</v:String>
+    <v:String x:Key="Hours">Часы</v:String>
+    <v:String x:Key="Minutes">Минуты</v:String>
+    <v:String x:Key="Seconds">Секунды</v:String>
+    <v:String x:Key="Create">Создать</v:String>
+    
+    <!--Add/Update/Delete-->
+    <v:String x:Key="Add">Добавить</v:String>
+    <v:String x:Key="Update">Обновить</v:String>
+    <v:String x:Key="Delete">Удалить</v:String>
+    <v:String x:Key="Accept">Применить</v:String>
+    
+</ResourceDictionary>

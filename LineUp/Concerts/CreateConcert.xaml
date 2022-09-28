@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="LineUp.Concerts.CreateConcert"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LineUp.Concerts"
+             mc:Ignorable="d" 
+             d:DesignHeight="458" d:DesignWidth="992">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="50,40,0,0" TextWrapping="Wrap" Text="{DynamicResource CName}" VerticalAlignment="Top" Width="120" Style="{DynamicResource TextBlock}"/>
+        <TextBox x:Name="ConcertName" HorizontalAlignment="Left" Height="23" Margin="50,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Style="{DynamicResource TextBox}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="255,40,0,0" TextWrapping="Wrap" Text="{DynamicResource Image}" VerticalAlignment="Top" Width="120" Style="{DynamicResource TextBlock}"/>
+        <TextBox x:Name="ConcertImage" HorizontalAlignment="Left" Height="23" Margin="255,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="ConcertImage_TextChanged" Style="{DynamicResource TextBox}"/>
+        <Image x:Name="ConcertImageShow" HorizontalAlignment="Left" Height="195" Margin="650,20,0,0" VerticalAlignment="Top" Width="290"/>
+        <ComboBox x:Name="Group1" HorizontalAlignment="Left" Margin="50,180,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="Group1_SelectionChanged" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Group2" HorizontalAlignment="Left" Margin="255,180,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="Group2_SelectionChanged" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Group3" HorizontalAlignment="Left" Margin="460,180,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="Group3_SelectionChanged" Style="{DynamicResource Combo}" Height="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,145,0,0" TextWrapping="Wrap" Text="{DynamicResource BName}" VerticalAlignment="Top" Width="120" Style="{DynamicResource TextBlock}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,250,0,0" TextWrapping="Wrap" Text="{DynamicResource TName}" VerticalAlignment="Top" Style="{DynamicResource TextBlock}"/>
+        <ComboBox x:Name="Song11" HorizontalAlignment="Left" Margin="50,285,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song12" HorizontalAlignment="Left" Margin="50,320,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song13" HorizontalAlignment="Left" Margin="50,355,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song14" HorizontalAlignment="Left" Margin="50,390,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song21" HorizontalAlignment="Left" Margin="255,285,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song22" HorizontalAlignment="Left" Margin="255,320,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song23" HorizontalAlignment="Left" Margin="255,355,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song24" HorizontalAlignment="Left" Margin="255,390,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}"/>
+        <ComboBox x:Name="Song31" HorizontalAlignment="Left" Margin="460,285,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}" Height="22"/>
+        <ComboBox x:Name="Song32" HorizontalAlignment="Left" Margin="460,320,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}" Height="22"/>
+        <ComboBox x:Name="Song33" HorizontalAlignment="Left" Margin="460,355,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}" Height="22"/>
+        <ComboBox x:Name="Song34" HorizontalAlignment="Left" Margin="460,390,0,0" VerticalAlignment="Top" Width="120" Style="{DynamicResource Combo}" Height="22"/>
+        <Button x:Name="CreateConcertBtn" Content="{DynamicResource Create}" HorizontalAlignment="Left" Margin="810,390,0,0" VerticalAlignment="Top" Width="120" Click="CreateConcertBtn_Click" Style="{DynamicResource Button}"/>
+        <DatePicker x:Name="ChoosedDate" HorizontalAlignment="Left" Margin="650,285,0,0" VerticalAlignment="Top" Height="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="810,260,0,0" TextWrapping="Wrap" Text="{DynamicResource Hours}" VerticalAlignment="Top" Width="120" Style="{DynamicResource TextBlock}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="810,320,0,0" TextWrapping="Wrap" Text="{DynamicResource Minutes}" VerticalAlignment="Top" Width="120" Height="22" Style="{DynamicResource TextBlock}"/>
+        <TextBox x:Name="Hours" HorizontalAlignment="Left" Height="22" Margin="810,285,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Style="{DynamicResource TextBox}"/>
+        <TextBox x:Name="Minutes" HorizontalAlignment="Left" Height="22" Margin="810,355,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Style="{DynamicResource TextBox}"/>
+
+    </Grid>
+</UserControl>

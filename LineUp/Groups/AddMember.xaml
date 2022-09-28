@@ -1,0 +1,19 @@
+﻿<Window x:Class="LineUp.Groups.AddMember"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LineUp.Groups"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"               
+        Title="LineUp/Add member" Height="365.235" Width="502.078">
+    <Grid Style="{DynamicResource Grid}">
+        <TextBlock HorizontalAlignment="Left" Margin="50,45,0,0" TextWrapping="Wrap" Text="{DynamicResource Name}" VerticalAlignment="Top" Style="{DynamicResource TextBlock}" Width="140" Height="25"/>
+        <TextBox x:Name="MemberName" HorizontalAlignment="Left" Height="25" Margin="50,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" Style="{DynamicResource TextBox}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,135,0,0" TextWrapping="Wrap" Text="{DynamicResource Image}" VerticalAlignment="Top" Style="{DynamicResource TextBlock}" Width="140" Height="25"/>
+        <TextBox x:Name="MemberImage" HorizontalAlignment="Left" Height="23" Margin="50,165,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140" TextChanged="MemberImage_TextChanged" Style="{DynamicResource TextBox}"/>
+        <Image x:Name="MemberImageShow" HorizontalAlignment="Left" Height="167" Margin="250,45,0,0" VerticalAlignment="Top" Width="184"/>
+        <Button x:Name="ConfirmBtn" Content="{DynamicResource Add}" HorizontalAlignment="Left" Margin="50,210,0,0" VerticalAlignment="Top" Width="140" Click="ConfirmBtn_Click" Style="{DynamicResource Button}" Height="25"/>
+
+    </Grid>
+</Window>

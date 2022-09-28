@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="LineUp.Groups.NewBand"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LineUp.Groups"
+             mc:Ignorable="d" 
+             d:DesignHeight="458" d:DesignWidth="992">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="50,70,0,0" TextWrapping="Wrap" Text="{DynamicResource BName}" VerticalAlignment="Top" Style="{DynamicResource TextBlock}"/>
+        <TextBox x:Name="NewName" HorizontalAlignment="Left" Height="25" Margin="50,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" Style="{DynamicResource TextBox}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="50,180,0,0" TextWrapping="Wrap" Text="{DynamicResource Genre}" VerticalAlignment="Top" Style="{DynamicResource TextBlock}"/>
+        <ComboBox x:Name="NewGanre" HorizontalAlignment="Left" Height="25" Margin="50,220,0,0" VerticalAlignment="Top" Width="165" Style="{DynamicResource  Combo}">
+            <ComboBoxItem x:Name="Rock" Content="{DynamicResource Rock}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="IndieRock" Content="{DynamicResource IndieRock}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="PunkRock" Content="{DynamicResource PunkRock}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Pop" Content="{DynamicResource Pop}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="IndiePop" Content="{DynamicResource IndiePop}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="SynthPop" Content="{DynamicResource SynthPop}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Jazz" Content="{DynamicResource Jazz}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Metal" Content="{DynamicResource Metal}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Blues" Content="{DynamicResource Blues}" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Classic" Content="{DynamicResource Classic}" Style="{DynamicResource ComboItem}"/>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" Margin="50,290,0,0" TextWrapping="Wrap" Text="{DynamicResource Rate}" VerticalAlignment="Top" Style="{DynamicResource TextBlock}"/>
+        <ComboBox x:Name="NewRate" HorizontalAlignment="Left" Height="25" Margin="50,330,0,0" VerticalAlignment="Top" Width="165" Style="{DynamicResource Combo}">
+            <ComboBoxItem x:Name="One" Content="1" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Two" Content="2" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Three" Content="3" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Four" Content="4" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Five" Content="5" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Six" Content="6" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Seven" Content="7" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Eight" Content="8" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Nine" Content="9" Style="{DynamicResource ComboItem}"/>
+            <ComboBoxItem x:Name="Ten" Content="10" Style="{DynamicResource ComboItem}"/>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" Margin="475,70,0,0" TextWrapping="Wrap" Text="{DynamicResource Image}" VerticalAlignment="Top" Style="{DynamicResource TextBlock}" Width="165"/>
+        <TextBox x:Name="NewImage" HorizontalAlignment="Left" Height="25" Margin="475,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" TextChanged="NewImage_TextChanged"  Style="{DynamicResource TextBox}"/>
+        <Image x:Name="ShowImage" HorizontalAlignment="Left" Height="201" Margin="475,160,0,0" VerticalAlignment="Top" Width="392"/>
+        <Button x:Name="ConfirtmBtn" Content="{DynamicResource Create}" HorizontalAlignment="Left" Margin="50,390,0,0" VerticalAlignment="Top" Width="165" Click="ConfirtmBtn_Click" Style="{DynamicResource Button}"/>
+    </Grid>
+</UserControl>

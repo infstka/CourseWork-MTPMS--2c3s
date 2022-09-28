@@ -1,0 +1,14 @@
+﻿<Window x:Class="LineUp.Groups.DelSong"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LineUp.Groups"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"       
+        Title="LineUp/Delete song" Height="319.114" Width="229.086" Icon="icon.png">
+    <Grid Style="{DynamicResource Grid}">
+        <ComboBox x:Name="Songs" HorizontalAlignment="Left" Margin="50,58,0,0" VerticalAlignment="Top" Width="130" Style="{DynamicResource Combo}"/>
+        <Button x:Name="ConfirmBtn" Content="{DynamicResource Delete}" HorizontalAlignment="Left" Margin="50,170,0,0" VerticalAlignment="Top" Width="130" Click="ConfirmBtn_Click" Style="{DynamicResource Button}"/>
+    </Grid>
+</Window>

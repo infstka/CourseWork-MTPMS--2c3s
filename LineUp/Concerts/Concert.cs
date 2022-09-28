@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LineUp.Concerts
+{
+    public class Concert
+    {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public string Image { get; set; }
+
+        public Concert(int id,string name,string image)
+        {
+            ID = id;
+            Name = name;
+            Image = image;
+        }
+    }
+}

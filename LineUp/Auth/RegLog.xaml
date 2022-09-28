@@ -1,0 +1,17 @@
+﻿<Window x:Class="LineUp.Auth.RegLog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LineUp.Auth"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Authorization" Height="479.917" Width="642.936" Icon="icon.png" BorderBrush="White" BorderThickness="5">
+    <Grid Style="{DynamicResource Grid}">
+        <Grid x:Name="RegLogTemplate" HorizontalAlignment="Left" Height="214" Margin="0,136,0,0" VerticalAlignment="Top" Width="635" Style="{DynamicResource Grid}"/>
+        <Button x:Name="logorreg" Content="{DynamicResource Login}" HorizontalAlignment="Left" Margin="50,385,0,0" VerticalAlignment="Top" Width="140" Click="logorreg_Click" Style="{DynamicResource Button}" Height="35"/>
+        <Button x:Name="createoralready" Content="{DynamicResource CreateAcc}" HorizontalAlignment="Left" Margin="240,385,0,0" VerticalAlignment="Top" Width="140" Click="createoralready_Click" Style="{DynamicResource Button}" Height="35"/>
+        <Button x:Name="Settings" Content="{DynamicResource Settings}" HorizontalAlignment="Left" Margin="430,385,0,0" VerticalAlignment="Top" Width="140" Click="Settings_Click" Style="{DynamicResource Button}" Height="35"/>
+        <Label Content="{DynamicResource Auth}" HorizontalAlignment="Center" Margin="0,50,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Black" Style="{DynamicResource Label}"/>
+    </Grid>
+</Window>

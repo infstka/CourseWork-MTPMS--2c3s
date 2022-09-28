@@ -1,0 +1,99 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LineUp" xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--Аўтарызацыя-->
+    <v:String x:Key="Auth">Аўтарызацыя</v:String>
+    <v:String x:Key="CreateAcc">Стварыць рахунак</v:String>
+    <v:String x:Key="Login">Увайсці</v:String>
+    <v:String x:Key="Password">Пароль</v:String>
+    <v:String x:Key="Log">Лагін</v:String>
+
+    <!--Налады-->
+    <v:String x:Key="Settings">Налады</v:String>
+    <v:String x:Key="Language">Мова:</v:String>
+    <v:String x:Key="Ru">Рускі</v:String>
+    <v:String x:Key="By">Беларускі</v:String>
+    <v:String x:Key="Eng">Англійская</v:String>
+    <v:String x:Key="Theme">Колеравая тэма:</v:String>
+    <v:String x:Key="Light">Светлая</v:String>
+    <v:String x:Key="Dark">Цёмная</v:String>
+    <v:String x:Key="Press">Націсні кнопку:</v:String>
+    <v:String x:Key="Singleton">Адзіночка</v:String>
+
+    <!--Малюначак-->
+    <v:String x:Key="Image">Малюнак</v:String>
+
+    <!--Карыстальнік-->
+    <v:String x:Key="Enter">Пошук</v:String>
+    <v:String x:Key="FirstStart">Да пачатку канцэрта</v:String>
+    <v:String x:Key="Main">Галоўная</v:String>
+
+    <!--Налады/Выхад-->
+    <v:String x:Key="Sttngs">Налады</v:String>
+    <v:String x:Key="Exit">Выхад</v:String>
+    <v:String x:Key="Close">Закрыць</v:String>
+    <v:String x:Key="Open">Адкрыць</v:String>
+
+    <!--BandDG-->
+    <v:String x:Key="Bands">Гурты</v:String>
+    <v:String x:Key="BName">Назва гурта</v:String>
+    <v:String x:Key="BBName">Назва</v:String>
+    <v:String x:Key="Genre">Жанр</v:String>
+    <v:String x:Key="Rate">Рэйтынг</v:String>
+    <v:String x:Key="EditBand">Рэдагаваць гурт</v:String>
+    <v:String x:Key="DeleteBand">Выдаліць гурт</v:String>
+    <v:String x:Key="CreateBand">Стварыць гурт</v:String>
+
+    <!--Genres-->
+    <v:String x:Key="Rock">Рок</v:String>
+    <v:String x:Key="IndieRock">Індзі-рок</v:String>
+    <v:String x:Key="PunkRock">Панк-рок</v:String>
+    <v:String x:Key="Pop">Поп</v:String>
+    <v:String x:Key="IndiePop">Інді-поп</v:String>
+    <v:String x:Key="SynthPop">Сінці-поп</v:String>
+    <v:String x:Key="Jazz">Джаз</v:String>
+    <v:String x:Key="Metal">Метал</v:String>
+    <v:String x:Key="Blues">Блюз</v:String>
+    <v:String x:Key="Classic">Класічная</v:String>
+
+    <!--TrackDG-->
+    <v:String x:Key="Tracks">Песні</v:String>
+    <v:String x:Key="TName">Назва песні</v:String>
+    <v:String x:Key="AddTrack">Дадаць песню</v:String>
+    <v:String x:Key="DeleteTrack">Выдаліць песню</v:String>
+
+    <!--MemberDG-->
+    <v:String x:Key="Members">Удзельнікі</v:String>
+    <v:String x:Key="Name">Імя</v:String>
+    <v:String x:Key="AddMem">Дадаць удзельніка</v:String>
+    <v:String x:Key="DeleteMem">Выдаліць удзельніка</v:String>
+
+    <!--Concert-->
+    <v:String x:Key="CName">Назва канцэрта</v:String>
+    <v:String x:Key="Concs">Канцэрты</v:String>
+
+    <!--NewBand-->
+    <v:String x:Key="NewBand">Новы гурт</v:String>
+
+    <!--NewTrack-->
+    <v:String x:Key="NewTrack">Новая песня</v:String>
+
+    <!--NewMember-->
+    <v:String x:Key="NewMember">Новы ўдзельнік</v:String>
+
+    <!--NewConc-->
+    <v:String x:Key="NewConc">Стварыць канцэрт</v:String>
+    <v:String x:Key="DelConc">Выдаліць канцэрт</v:String>
+    <v:String x:Key="Days">Дні</v:String>
+    <v:String x:Key="Hours">Гадзіны</v:String>
+    <v:String x:Key="Minutes">Хвіліны</v:String>
+    <v:String x:Key="Seconds">Секунды</v:String>
+    <v:String x:Key="Create">Стварыць</v:String>
+
+    <!--Add/Update/Delete-->
+    <v:String x:Key="Add">Дадаць</v:String>
+    <v:String x:Key="Update">Абнавіць</v:String>
+    <v:String x:Key="Delete">Выдаліць</v:String>
+    <v:String x:Key="Accept">Ужыць</v:String>
+    
+</ResourceDictionary>

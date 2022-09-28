@@ -1,0 +1,99 @@
+﻿ <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LineUp" xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--Authorization-->
+    <v:String x:Key="Auth">Authorization</v:String>
+    <v:String x:Key="CreateAcc">Create Account</v:String>
+    <v:String x:Key="Login">Login</v:String>
+    <v:String x:Key="Password">Password</v:String>
+    <v:String x:Key="Log">Login</v:String>
+
+    <!--Settings-->
+    <v:String x:Key="Settings">Settings</v:String>
+    <v:String x:Key="Language">Language:</v:String>
+    <v:String x:Key="Ru">Russian</v:String>
+    <v:String x:Key="By">Belarusian</v:String>
+    <v:String x:Key="Eng">English</v:String>
+    <v:String x:Key="Theme">Color theme:</v:String>
+    <v:String x:Key="Light">Light</v:String>
+    <v:String x:Key="Dark">Dark</v:String>
+    <v:String x:Key="Press">Press button:</v:String>
+    <v:String x:Key="Singleton">Singleton</v:String>
+
+    <!--Image-->
+    <v:String x:Key="Image">Image</v:String>
+
+    <!--User-->
+    <v:String x:Key="Enter">Search</v:String>
+    <v:String x:Key="FirstStart">Before the concert</v:String>
+    <v:String x:Key="Main">Main</v:String>
+
+    <!--Settings/Exit-->
+    <v:String x:Key="Sttngs">Settings</v:String>
+    <v:String x:Key="Exit">Exit</v:String>
+    <v:String x:Key="Close">Close</v:String>
+    <v:String x:Key="Open">Open</v:String>
+
+    <!--BandDG-->
+    <v:String x:Key="Bands">Bands</v:String>
+    <v:String x:Key="BName">Band name</v:String>
+    <v:String x:Key="BBName">Name</v:String> 
+    <v:String x:Key="Genre">Genre</v:String>
+    <v:String x:Key="Rate">Rating</v:String>
+    <v:String x:Key="EditBand">Edit Band</v:String>
+    <v:String x:Key="DeleteBand">Delete Band</v:String>
+    <v:String x:Key="CreateBand">Create Band</v:String>
+
+    <!--Genres-->
+    <v:String x:Key="Rock">Rock</v:String>
+    <v:String x:Key="IndieRock">Indie Rock</v:String>
+    <v:String x:Key="PunkRock">Punk Rock</v:String>
+    <v:String x:Key="Pop">Pop</v:String>
+    <v:String x:Key="IndiePop">Indie Pop</v:String>
+    <v:String x:Key="SynthPop">SynthPop</v:String>
+    <v:String x:Key="Jazz">Jazz</v:String>
+    <v:String x:Key="Metal">Metal</v:String>
+    <v:String x:Key="Blues">Blues</v:String>
+    <v:String x:Key="Classic">Classic</v:String>
+
+    <!--TrackDG-->
+    <v:String x:Key="Tracks">Tracks</v:String>
+    <v:String x:Key="TName">Track name</v:String>
+    <v:String x:Key="AddTrack">Add Track</v:String>
+    <v:String x:Key="DeleteTrack">Delete Track</v:String>
+
+    <!--MemberDG-->
+    <v:String x:Key="Members">Members</v:String>
+    <v:String x:Key="Name">Name</v:String>
+    <v:String x:Key="AddMem">Add Member</v:String>
+    <v:String x:Key="DeleteMem">Delete Member</v:String>
+
+    <!--Concert-->
+    <v:String x:Key="CName">Concert name</v:String>
+    <v:String x:Key="Concs">Concerts</v:String>
+
+    <!--NewBand-->
+    <v:String x:Key="NewBand">New Band</v:String>
+
+    <!--NewTrack-->
+    <v:String x:Key="NewTrack">New Track</v:String>
+
+    <!--NewMember-->
+    <v:String x:Key="NewMember">New Member</v:String>
+
+    <!--NewConc-->
+    <v:String x:Key="NewConc">Create Concert</v:String>
+    <v:String x:Key="DelConc">Delete Concert</v:String>
+    <v:String x:Key="Days">Days</v:String>
+    <v:String x:Key="Hours">Hours</v:String>
+    <v:String x:Key="Minutes">Minutes</v:String>
+    <v:String x:Key="Seconds">Seconds</v:String>
+    <v:String x:Key="Create">Create</v:String>
+
+    <!--Add/Update/Delete-->
+    <v:String x:Key="Add">Add</v:String>
+    <v:String x:Key="Update">Update</v:String>
+    <v:String x:Key="Delete">Delete</v:String>
+    <v:String x:Key="Accept">Apply</v:String>
+
+</ResourceDictionary>

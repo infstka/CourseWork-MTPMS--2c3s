@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="LineUp.Auth.logup"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LineUp.Auth"
+             mc:Ignorable="d" 
+             d:DesignHeight="214" d:DesignWidth="635">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="68,25,0,0" TextWrapping="Wrap" Text="{DynamicResource Log}" VerticalAlignment="Top" Width="60" Height="23"/>
+        <TextBox x:Name="newloginfield" HorizontalAlignment="Left" Height="23" Margin="218,25,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="363" Style="{DynamicResource TextBox}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="68,88,0,0" TextWrapping="Wrap" Text="{DynamicResource Password}" VerticalAlignment="Top" Width="60" Height="23"/>
+        <PasswordBox x:Name="newpasswordfield" HorizontalAlignment="Left" Height="23" Margin="218,88,0,0" VerticalAlignment="Top" Width="363" Style="{DynamicResource PasswordBox}"/>
+    </Grid>
+</UserControl>
